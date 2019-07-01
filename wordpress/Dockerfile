@@ -15,3 +15,7 @@ RUN apt-get update \
 ##
 ## Initiate Wordpress
 ENTRYPOINT ["docker-entrypoint.sh", "apache2-foreground"]
+
+## References
+## https://github.com/docker-library/wordpress/issues/30#issuecomment-351462895
+## https://github.com/docker-library/wordpress/issues/194#issuecomment-271031482
