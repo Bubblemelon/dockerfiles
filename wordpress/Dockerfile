@@ -30,3 +30,4 @@ ENTRYPOINT ["docker-entrypoint-wrapper.sh", "apache2-foreground"]
 ## https://github.com/docker-library/wordpress/issues/30#issuecomment-351462895
 ## https://github.com/docker-library/wordpress/issues/194#issuecomment-271031482
 ## https://github.com/docker-library/wordpress/issues/30#issuecomment-317511836
+## https://www.digitalocean.com/community/questions/sendmail-is-slow-to-send-mail
